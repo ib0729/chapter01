@@ -39,6 +39,7 @@ public class Ex04 {
 		System.out.println("당신의 나이는 " + age + " 이름은 "+  name  +" 입니다." );
 		
 
+		System.out.println("깃허브 테스트 문장");
 		sc.close();
 		
 		
