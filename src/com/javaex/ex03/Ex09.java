@@ -20,10 +20,10 @@ public class Ex09 {
 		}else if(point==2) {
 			System.out.println("R202호");
 		}else if(point==3) {
-			System.out.println("303호");
+			System.out.println("R303호");
 			
 		}else if(point==4) {
-			System.out.println("404호");
+			System.out.println("R404호");
 		}else {
 			System.out.println("상담원에게 문의하세요");
 		}
